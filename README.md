@@ -1,0 +1,1 @@
+# This image has node v6.9.5 ruby v2.3 and aws-cli
